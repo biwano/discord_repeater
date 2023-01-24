@@ -1,0 +1,22 @@
+{
+  "name": "discord_repeater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biwano/discord_repeater.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "biwano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biwano/discord_repeater/issues"
+  },
+  "homepage": "https://github.com/biwano/discord_repeater#readme"
+}
