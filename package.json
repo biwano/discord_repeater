@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/biwano/discord_repeater/issues"
   },
-  "homepage": "https://github.com/biwano/discord_repeater#readme"
+  "homepage": "https://github.com/biwano/discord_repeater#readme",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
 }
